@@ -10,6 +10,8 @@ Note: This repository will continuously evolve with new projects and insights.
 - Brand-specific sales breakdowns for identifying top-performing brands and customer preferences.
 - Individual sales representative analysis to appreciate achievements and identify areas for improvement or support.
 
+(ADVANCE EXCEL/Dashboard - I.jpeg)
+
 ### b. Sales Dashboard - II
 - The dashboard was created for a cohort level competition around a year back, where I secured the runner-up position of more than 70+ participants.
 - Comprehensive overview of sales performance, including country and ice cream type metrics.
