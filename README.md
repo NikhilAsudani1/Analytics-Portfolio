@@ -9,6 +9,7 @@ Note: This repository will continuously evolve with new projects and insights.
 - Industry-wise sales analysis to understand profitable sectors and market dynamics within each country.
 - Brand-specific sales breakdowns for identifying top-performing brands and customer preferences.
 - Individual sales representative analysis to appreciate achievements and identify areas for improvement or support.
+[Link To Dashboard](https://drive.google.com/file/d/1uPoMqr0WcgdFr6ZlBkP0a-Oa8U_RtkMq/view?usp=drive_link)
 
 ![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/main/ADVANCE%20EXCEL/Dashboard%20-%20I.jpeg)
 
