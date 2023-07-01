@@ -19,16 +19,22 @@ Note: This repository will continuously evolve with new projects and insights.
 - Country-wise sales distribution to uncover market trends and growth opportunities.
 - Detailed insights on popular flavors, nuts, and toppings, and analysis of customer age for targeted marketing and personalized experiences.
 
+![ADVANCE EXCEL/Dashboard - II.jpeg](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20II.PNG)
+
 ### c. [Sales Dashboard - III](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20III%20(Raw%20%26%20Woking%20File).xlsx)
 - Monitor and analyze clients upskilled  in a specific year, gaining insights into learning or skill development of clients.
 - Explore distribution of learners by country and employee level, understanding engagement across regions and hierarchies.
 - Analyze department-wise breakdowns to assess program impact and identify areas for targeted initiatives.
 - Discover training types (online, internal, external) to understand preferences and shape future strategies; recognize outstanding trainers and their programs.
 
+![ADVANCE EXCEL/Dashboard - III.jpeg](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20III.PNG)
+
 ### d. [Sales Dashboard - IV](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20IV%20(Raw%20%26%20Woking%20File).xlsx)
 - Overview of sales for two sub-brands of BIG GROUP, providing insights into performance and growth trends.
 - Geography-based analysis of sales for understanding market distribution and identifying thriving areas.
 - Sales by category section to analyze performance and identify top-selling categories for product development and marketing strategies.
 - State-level sales analysis by cluster owners to identify key stakeholders and collaborative opportunities, assessing their impact on specific states.
+
+![ADVANCE EXCEL/Dashboard - IV.jpeg](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20IV.PNG)
 
 
