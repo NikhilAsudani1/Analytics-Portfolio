@@ -21,7 +21,7 @@ Note: This repository will continuously evolve with new projects and insights.
 - Detailed insights on popular flavors, nuts, and toppings, and analysis of customer age for targeted marketing and personalized experiences.
 - [Link To Dashboard](https://drive.google.com/file/d/1uJKThtKJhQYOh1YqhRhVFRCQfTwGntkA/view?usp=drive_link)
 
-![ADVANCE EXCEL/Dashboard - II.jpeg](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20II.PNG)
+![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20II.PNG)
 
 ### c. [Sales Dashboard - III](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20III%20(Raw%20%26%20Woking%20File).xlsx)
 - Monitor and analyze clients upskilled  in a specific year, gaining insights into learning or skill development of clients.
@@ -30,7 +30,7 @@ Note: This repository will continuously evolve with new projects and insights.
 - Discover training types (online, internal, external) to understand preferences and shape future strategies; recognize outstanding trainers and their programs.
 - [Link To Dashboard](https://drive.google.com/file/d/1uW2YjlO96xqCh4wewClgrU_RVr3siCcx/view?usp=sharing)
 
-![ADVANCE EXCEL/Dashboard - III.jpeg](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20III.PNG)
+![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20III.PNG)
 
 ### d. [Sales Dashboard - IV](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20IV%20(Raw%20%26%20Woking%20File).xlsx)
 - Overview of sales for two sub-brands of BIG GROUP, providing insights into performance and growth trends.
@@ -39,6 +39,6 @@ Note: This repository will continuously evolve with new projects and insights.
 - State-level sales analysis by cluster owners to identify key stakeholders and collaborative opportunities, assessing their impact on specific states.
 - [Link To Dashboard](https://drive.google.com/file/d/1uLecf0f6Q87v38bVD0ScoKrqZbviFFCa/view?usp=sharing)
 
-![ADVANCE EXCEL/Dashboard - IV.jpeg](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20IV.PNG)
+![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20IV.PNG)
 
 
