@@ -4,7 +4,7 @@ Note: This repository will continuously evolve with new projects and insights.
 
 ## Project - 1 >>  Interactive Dashboards related to Sales & Essential Business Metrics.
 
-### a. Sales Dashboard - I
+### a. [Sales Dashboard - I](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/89897dec5b36e1f4b6570b6f88e760313f31e358/ADVANCE%20EXCEL/Dashboard%20-%20I%20(Raw%20%26%20Woking%20File).xlsx)
 - ABC Company's global sales dashboard providing insights on market trends and growth opportunities across countries.
 - Industry-wise sales analysis to understand profitable sectors and market dynamics within each country.
 - Brand-specific sales breakdowns for identifying top-performing brands and customer preferences.
