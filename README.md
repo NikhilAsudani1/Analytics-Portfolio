@@ -6,7 +6,7 @@ The following projects showcase my expertise in business analysis and visualizat
 ### [Click Here For Advance Excel Projects](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/22d74f96a772920538e5da0d3336461f520c7460/ADVANCE%20EXCEL)
 
 ## SQL PROJECTS
-### [Click Here For SQL Projects](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/c244651bf7cb62d8656a8cc9633c1553c30ab030/SQL)
+[Click Here For SQL Projects](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/c244651bf7cb62d8656a8cc9633c1553c30ab030/SQL)
 
 ## PYTHON PROJECTS
 ### [Click Here For Python Projects](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/c244651bf7cb62d8656a8cc9633c1553c30ab030/PYTHON)
