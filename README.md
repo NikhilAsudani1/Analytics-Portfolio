@@ -1,8 +1,9 @@
+## ABOUT ME :
 Hi Everyone! Explore my projects related to Data and Business Analytics showcasing expertise in SQL, Advance Excel, Python, Python Libraries, Statistics and Visualization Tools such as PowerBI and Tableau. We'll dive into diverse datasets, uncover trends, derive insights, and make informed decisions. Join me on this data-driven journey to drive impactful outcomes. \
 This repository will continuously evolve with new projects and insights.
 
-## ABOUT ME :
 
+## PORTFOLIO :
 ### ADVANCE EXCEL PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/22d74f96a772920538e5da0d3336461f520c7460/ADVANCE%20EXCEL)
 The following projects showcase my expertise in business analysis and visualization. I have meticulously created interactive dashboards based on sales reports from multiple companies. By leveraging techniques such as data cleansing, statistical and lookup formulas, pivot tables, charts, and filters, I have transformed complex data into insightful visuals. Explore key performance indicators, uncover trends, and identify growth opportunities with ease. Experience the power of data visualization in making informed decisions with the Dashboards.
 
@@ -14,3 +15,9 @@ By Utilizing the power of Python programming language and its versatile librarie
 
 ### POWER-BI PROJETCS : [Click Here](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/c244651bf7cb62d8656a8cc9633c1553c30ab030/POWER%20BI)
 I showcase the power of data visualization and analytics using this dynamic tool. Explore my projects to witness the impact of Power BI's interactive dashboards, advanced visualizations, drill down capabilities and data modeling techniques. Experience how Power BI enables businesses to gain valuable insights, track key metrics, and make informed decisions. From transforming raw data into compelling visual stories to creating intuitive reports
+
+
+## CERTIFICATIONS :
+
+
+## CONTACT :
