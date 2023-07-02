@@ -1,8 +1,8 @@
 ## Nikhil's Analytics Portfolio :
-- [ABOUT ME](
-- PORTFOLIO
-- CERTIFICATIONS
-- CONTACT
+- [ABOUT ME](https://github.com/NikhilAsudani1/Analytics-Portfolio#about-me-)
+- [PORTFOLIO](https://github.com/NikhilAsudani1/Analytics-Portfolio#portfolio-)
+- [CERTIFICATIONS](https://github.com/NikhilAsudani1/Analytics-Portfolio#certifications-)
+- [CONTACT](https://github.com/NikhilAsudani1/Analytics-Portfolio#contact-)
 
 ## ABOUT ME :
 Hi Everyone!!
