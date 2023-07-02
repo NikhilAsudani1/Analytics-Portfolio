@@ -11,6 +11,7 @@ The following projects showcase my expertise in business analysis and visualizat
 ### [SQL Projects](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/c244651bf7cb62d8656a8cc9633c1553c30ab030/SQL)
 
 ## PYTHON PROJECTS
+Utilizing the power of Python programming language and its versatile libraries, I have developed robust solutions for extracting insights from data. Explore my projects encompassing data cleaning, analysis, visualization, and predictive modeling, as I demonstrate the value of Python in driving data-informed business decisions. Witness the impact of leveraging Python libraries such as Pandas, NumPy & Matplotlib to unlock hidden patterns, optimize strategies, and unlock the true potential of data.
 ### [Click Here For Python Projects](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/c244651bf7cb62d8656a8cc9633c1553c30ab030/PYTHON)
 
 ## POWER-BI PROJETCS
