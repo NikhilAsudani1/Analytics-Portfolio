@@ -1,4 +1,5 @@
 ## Interactive Dashboards Related To Sales & Essential Business Metrics.
+Explore my projects that highlight the extensive capabilities of Advanced Excel, including data cleaning, formula manipulation, pivot tables, and interactive dashboards. Witness how Advanced Excel empowers businesses to unlock valuable insights, make data-driven decisions, and drive organizational growth. Dive into my portfolio to discover the transformative potential of Advanced Excel in extracting meaningful information from complex datasets, optimizing workflows, and uncovering valuable business trends.
 
 ### 1. [Sales Dashboard - I](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20I%20(Raw%20%26%20Woking%20File).xlsx)
 - ABC Company's global sales dashboard providing insights on market trends and growth opportunities across countries.
