@@ -7,7 +7,7 @@ Explore my projects that highlight the extensive capabilities of Advanced Excel,
 - Brand-specific sales breakdowns for identifying top-performing brands and customer preferences.
 - Individual sales representative analysis to appreciate achievements and identify areas for improvement or support.
 - [Link To Dashboard](https://drive.google.com/file/d/1uPoMqr0WcgdFr6ZlBkP0a-Oa8U_RtkMq/view?usp=drive_link)
-![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20I.jpeg)
+![](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/blob/db9217b25735f18b6d8d95d27f94db540c9fbf15/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20I.jpeg)
 
 ### 2. [Sales Dashboard - II](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20II%20(Raw%20%26%20Woking%20File).xlsx)
 - The dashboard was created for a cohort level competition around a year back, where I secured the runner-up position of more than 70+ participants.
