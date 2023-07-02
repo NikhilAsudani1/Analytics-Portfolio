@@ -1,2 +1,3 @@
 ## Business & Data Analysis Using Python and Python Liabraries (Numpy, Pandas, Matplot).
-Utilizing the power of Python programming language and its versatile libraries, I have developed robust solutions for extracting insights from data. Explore my projects encompassing data cleaning, analysis, visualization, and predictive modeling, as I demonstrate the value of Python in driving data-informed business decisions. Witness the impact of leveraging Python libraries such as Pandas, NumPy & Matplotlib to unlock hidden patterns, optimize strategies, and unlock the true potential of data.
+
+1. Crop Production In Indian States.
