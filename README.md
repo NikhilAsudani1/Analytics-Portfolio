@@ -1,7 +1,11 @@
 ## ABOUT ME :
-Hi Everyone! Explore my projects related to Data and Business Analytics showcasing expertise in SQL, Advance Excel, Python, Python Libraries, Statistics and Visualization Tools such as PowerBI and Tableau. We'll dive into diverse datasets, uncover trends, derive insights, and make informed decisions. Join me on this data-driven journey to drive impactful outcomes. \
-This repository will continuously evolve with new projects and insights.
+Hi Everyone!!
 
+I am a Business Administration graduate with a passion for data, business intelligence, and analytics. Equipped with strong communication, presentation, and problem-solving skills, I possess a solid foundation in SQL, advanced Excel, data visualization tools, and a good understanding of Python, automation, and statistics. With real-world commercial experience and a self-driven, goal-oriented mindset, I am dedicated to delivering high-quality results.
+
+Within my portfolio, you will discover a collection of projects focused on Data and Business Analytics. These projects showcase my expertise in SQL, Advanced Excel, Python, Python Libraries, Statistics, and Visualization Tools such as PowerBI and Tableau. Together, we will dive into diverse datasets, uncover meaningful trends, derive valuable insights, and make informed decisions. Join me on this data-driven journey, where we aim to drive impactful outcomes.
+
+This repository will continue to evolve with new projects and insights, reflecting my commitment to ongoing learning and professional growth.
 
 ## PORTFOLIO :
 ### ADVANCE EXCEL PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/22d74f96a772920538e5da0d3336461f520c7460/ADVANCE%20EXCEL)
