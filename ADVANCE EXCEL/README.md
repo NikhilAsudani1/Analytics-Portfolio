@@ -1,4 +1,4 @@
-## Interactive Dashboards related to Sales & Essential Business Metrics.
+## Interactive Dashboards Related To Sales & Essential Business Metrics.
 
 ### 1. [Sales Dashboard - I](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20I%20(Raw%20%26%20Woking%20File).xlsx)
 - ABC Company's global sales dashboard providing insights on market trends and growth opportunities across countries.
