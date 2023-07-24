@@ -6,6 +6,7 @@ Explore my projects that highlight the extensive capabilities of Advanced Excel,
 - Industry-wise sales analysis to understand profitable sectors and market dynamics within each country.
 - Brand-specific sales breakdowns for identifying top-performing brands and customer preferences.
 - Individual sales representative analysis to appreciate achievements and identify areas for improvement or support.
+- ![Dashboard - I](https://github.com/NikhilAsudani1/Analytics-Portfolio/assets/107070520/21637e5a-ba1a-4a33-b154-da2fc90e00c1)
 - [Link To Dashboard](https://drive.google.com/file/d/1uPoMqr0WcgdFr6ZlBkP0a-Oa8U_RtkMq/view?usp=drive_link)
 ![](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/blob/db9217b25735f18b6d8d95d27f94db540c9fbf15/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20I.jpeg)
 
