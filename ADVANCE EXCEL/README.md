@@ -16,7 +16,7 @@ Explore my projects that highlight the extensive capabilities of Advanced Excel,
 - Country-wise sales distribution to uncover market trends and growth opportunities.
 - Detailed insights on popular flavors, nuts, and toppings, and analysis of customer age for targeted marketing and personalized experiences.
 - [Link To Dashboard](https://drive.google.com/file/d/1uJKThtKJhQYOh1YqhRhVFRCQfTwGntkA/view?usp=drive_link)
-![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20II.PNG)
+![](github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20II.PNG)
 
 ### 3. [Sales Dashboard - III](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20III%20(Raw%20%26%20Woking%20File).xlsx)
 - Monitor and analyze clients upskilled  in a specific year, gaining insights into learning or skill development of clients.
