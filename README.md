@@ -13,7 +13,7 @@ Within my portfolio, you will discover a collection of projects focused on Data 
 This repository will continue to evolve with new projects and insights, reflecting my commitment to ongoing learning and professional growth.
 
 ## PORTFOLIO :
-### ADVANCE EXCEL PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/22d74f96a772920538e5da0d3336461f520c7460/ADVANCE%20EXCEL)
+### ADVANCE EXCEL PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/main/ADVANCE%20EXCEL)
 The following projects showcase my expertise in business analysis and visualization. I have meticulously created interactive dashboards based on sales reports from multiple companies. By leveraging techniques such as data cleansing, statistical and lookup formulas, pivot tables, charts, and filters, I have transformed complex data into insightful visuals. Explore key performance indicators, uncover trends, and identify growth opportunities with ease. Experience the power of data visualization in making informed decisions with the Dashboards.
 
 ### SQL PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/c244651bf7cb62d8656a8cc9633c1553c30ab030/SQL) 
