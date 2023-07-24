@@ -7,7 +7,7 @@ Explore my projects that highlight the extensive capabilities of Advanced Excel,
 - Brand-specific sales breakdowns for identifying top-performing brands and customer preferences.
 - Individual sales representative analysis to appreciate achievements and identify areas for improvement or support.
 - [Link To Dashboard](https://drive.google.com/file/d/1uPoMqr0WcgdFr6ZlBkP0a-Oa8U_RtkMq/view?usp=drive_link)
-  ![Dashboard - I](https://github.com/NikhilAsudani1/Analytics-Portfolio/assets/107070520/21637e5a-ba1a-4a33-b154-da2fc90e00c1)
+![Dashboard - I](https://github.com/NikhilAsudani1/Analytics-Portfolio/assets/107070520/21637e5a-ba1a-4a33-b154-da2fc90e00c1)
 
 ### 2. [Sales Dashboard - II](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20II%20(Raw%20%26%20Woking%20File).xlsx)
 - The dashboard was created for a cohort level competition around a year back, where I secured the runner-up position of more than 70+ participants.
@@ -16,7 +16,7 @@ Explore my projects that highlight the extensive capabilities of Advanced Excel,
 - Country-wise sales distribution to uncover market trends and growth opportunities.
 - Detailed insights on popular flavors, nuts, and toppings, and analysis of customer age for targeted marketing and personalized experiences.
 - [Link To Dashboard](https://drive.google.com/file/d/1uJKThtKJhQYOh1YqhRhVFRCQfTwGntkA/view?usp=drive_link)
-![](github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20II.PNG)
+![Dashboard - II](https://github.com/NikhilAsudani1/Analytics-Portfolio/assets/107070520/547daed8-0c50-4004-bd94-77b80afba06d)
 
 ### 3. [Sales Dashboard - III](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20III%20(Raw%20%26%20Woking%20File).xlsx)
 - Monitor and analyze clients upskilled  in a specific year, gaining insights into learning or skill development of clients.
@@ -24,7 +24,8 @@ Explore my projects that highlight the extensive capabilities of Advanced Excel,
 - Analyze department-wise breakdowns to assess program impact and identify areas for targeted initiatives.
 - Discover training types (online, internal, external) to understand preferences and shape future strategies; recognize outstanding trainers and their programs.
 - [Link To Dashboard](https://drive.google.com/file/d/1uW2YjlO96xqCh4wewClgrU_RVr3siCcx/view?usp=sharing)
-![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20III.PNG)
+![Dashboard - III](https://github.com/NikhilAsudani1/Analytics-Portfolio/assets/107070520/88865e59-22c0-4cc2-916d-c01828750300)
+
 
 ### 4. [Sales Dashboard - IV](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20IV%20(Raw%20%26%20Woking%20File).xlsx)
 - Overview of sales for two sub-brands of BIG GROUP, providing insights into performance and growth trends.
@@ -32,5 +33,6 @@ Explore my projects that highlight the extensive capabilities of Advanced Excel,
 - Sales by category section to analyze performance and identify top-selling categories for product development and marketing strategies.
 - State-level sales analysis by cluster owners to identify key stakeholders and collaborative opportunities, assessing their impact on specific states.
 - [Link To Dashboard](https://drive.google.com/file/d/1uLecf0f6Q87v38bVD0ScoKrqZbviFFCa/view?usp=sharing)
-![](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/9517669bb7f8acd9cadb7dc5fcb94139135d92bd/ADVANCE%20EXCEL/RAW%20FILES/Dashboard%20-%20IV.PNG)
+![Dashboard - IV](https://github.com/NikhilAsudani1/Analytics-Portfolio/assets/107070520/518bd1fa-71ba-465d-83f2-d33016cc3d74)
+
 
