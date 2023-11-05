@@ -3,4 +3,4 @@ Designed to provide comprehensive data insights for businesses. This dashboard f
 The dashboard offers a range of visualization options, from donut and pie charts to stacked areas, enabling deeper data exploration. Detailed sub-segment reports and an interactive map displaying sales by city further enhance data clarity.
 With the inclusion of slicers for region, segment, and specific dates, precision in data analysis is at your fingertips. It aids in the assessment of overall performance, identification of distinct customer units, and informed, data-driven decision-making.
 
-https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/b902e05cba02d2da762f20f0ef21371ae58975f8/POWER%20BI/E-Com%20Sales%20PBiD.mp4
+POWER BI/E-Com Sales PBiD.mp4
