@@ -1,4 +1,4 @@
-## Data Analysis Using SQL, Python, and Python Libraries (Numpy, Pandas, Matplot).
+## Data Analysis using SQL, Python, and Python Libraries (Numpy, Pandas, Matplot).
 
 ### 1. Crop Production In Indian States - [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/blob/844e82a7c6047bf316c9f3656d8250a16cd11591/PYTHON/Crop%20Production%20In%20Indian%20States.ipynb)
 The Python project is focused on analyzing crop production in Indian states from 1999 to 2016. Leveraging a comprehensive dataset provided by the Ministry of Agriculture, we have explored the production of various crops in terms of tonnes, bales, and nuts across different states and districts, considering distinct seasons. Through the utilization of various Python libraries such as Numpy and Pandas for data preprocessing, cleaning, statistical analysis, and visualization, we have gained valuable insights into crop production trends at both the state and season levels. Join us as we delve into this professionally conducted analysis to uncover meaningful patterns and enhance our understanding of agricultural dynamics in India.
