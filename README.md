@@ -1,9 +1,3 @@
-## Nikhil's Analytics Portfolio :
-- [ABOUT ME](https://github.com/NikhilAsudani1/Analytics-Portfolio#about-me-)
-- [PORTFOLIO](https://github.com/NikhilAsudani1/Analytics-Portfolio#portfolio-)
-- [CERTIFICATIONS](https://github.com/NikhilAsudani1/Analytics-Portfolio#certifications-)
-- [CONTACT](https://github.com/NikhilAsudani1/Analytics-Portfolio#contact-)
-
 ## ABOUT ME :
 Hi Everyone!!
 I am a Business Administration graduate with a passion for data, business intelligence, and analytics. Equipped with strong communication, presentation, and problem-solving skills, I possess a solid foundation in SQL, advanced Excel, data visualization tools, and a good understanding of Python, automation, and statistics. With real-world commercial experience and a self-driven, goal-oriented mindset, I am dedicated to delivering high-quality results.
