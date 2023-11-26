@@ -13,18 +13,12 @@ Within my portfolio, you will discover a collection of projects focused on Data 
 This repository will continue to evolve with new projects and insights, reflecting my commitment to ongoing learning and professional growth.
 
 ## PORTFOLIO :
-### ADVANCE EXCEL & POWER BI PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/main/ADVANCE%20EXCEL)
-The following projects showcase my expertise in business analysis and visualization. I have meticulously created interactive dashboards based on sales reports from multiple companies. By leveraging techniques such as data cleansing, statistical and lookup formulas, pivot tables, charts, and filters, I have transformed complex data into insightful visuals. Explore key performance indicators, uncover trends, and identify growth opportunities with ease. Experience the power of data visualization in making informed decisions with the Dashboards.
 
-### SQL PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/main/POWER%20BI) 
-I demonstrate the robust capabilities of SQL queries in extracting, transforming, and analyzing data. Through the strategic use of advanced SQL techniques such as joins, common table expressions (CTE), window functions, and query optimization, I showcase the power of SQL in uncovering valuable insights from complex datasets. Witness firsthand how SQL facilitates seamless data integration and efficient database design, enabling the seamless flow of information for informed decision-making. Explore my portfolio to experience the transformative potential of SQL in extracting actionable intelligence and driving data-centric solutions.
+### ADVANCE EXCEL & POWER BI PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/37951209e3d04a2ed93443c58e2974801b0ab6ac/ADVANCE%20EXCEL%20%26%20POWER%20BI)
+Demonstrating expertise in business analysis and visualization, I craft interactive dashboards from diverse sales reports, employing data cleansing, statistical formulas, and Power BI tools. My projects transform complex data into insightful visuals, facilitating the exploration of key performance indicators and growth opportunities, while showcasing the impact of Power BI in empowering businesses to make informed decisions through compelling narratives and intuitive reports.
 
-### SQL & PYTHON PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/main/PYTHON)
-By Utilizing the power of Python programming language and its versatile libraries, I have developed robust solutions for extracting insights from data. Explore my projects encompassing data cleaning, analysis, visualization, and predictive modeling, as I demonstrate the value of Python in driving data-informed business decisions. Witness the impact of leveraging Python libraries such as Pandas, NumPy & Matplotlib to unlock hidden patterns, optimize strategies, and unlock the true potential of data.
-
-### POWER-BI PROJETCS : [Click Here](https://github.com/NikhilAsudani1/Nikhils-Analytics-Portfolio/tree/main/POWER%20BI)
-I showcase the power of data visualization and analytics using this dynamic tool. Explore my projects to witness the impact of Power BI's interactive dashboards, advanced visualizations, drill down capabilities and data modeling techniques. Experience how Power BI enables businesses to gain valuable insights, track key metrics, and make informed decisions. From transforming raw data into compelling visual stories to creating intuitive reports
-
+### SQL & PYTHON PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/37951209e3d04a2ed93443c58e2974801b0ab6ac/SQL%20%26%20PYTHON)
+I showcase robust SQL capabilities, utilizing advanced techniques for data insights. My portfolio demonstrates transformative SQL applications in seamless integration and efficient database design. Leveraging Python and its libraries like Pandas, NumPy, and Matplotlib, I drive data-informed decisions through projects spanning data cleaning, analysis, visualization, and predictive modeling.
 
 ## CERTIFICATIONS :
 
