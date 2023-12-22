@@ -11,7 +11,7 @@ This repository will continue to evolve with new projects and insights, reflecti
 ### ADVANCE EXCEL & POWER BI PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/37951209e3d04a2ed93443c58e2974801b0ab6ac/ADVANCE%20EXCEL%20%26%20POWER%20BI)
 Demonstrating expertise in business analysis and visualization, I craft interactive dashboards from diverse sales reports, employing data cleansing, statistical formulas, and Power BI tools. My projects transform complex data into insightful visuals, facilitating the exploration of key performance indicators and growth opportunities, while showcasing the impact of Power BI in empowering businesses to make informed decisions through compelling narratives and intuitive reports.
 
-### SQL & PYTHON PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/37951209e3d04a2ed93443c58e2974801b0ab6ac/SQL%20%26%20PYTHON)
+### SQL & PYTHON PROJECTS : ####[Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/37951209e3d04a2ed93443c58e2974801b0ab6ac/SQL%20%26%20PYTHON)
 I showcase robust SQL capabilities, utilizing advanced techniques for data insights. My portfolio demonstrates transformative SQL applications in seamless integration and efficient database design. Leveraging Python and its libraries like Pandas, NumPy, and Matplotlib, I drive data-informed decisions through projects spanning data cleaning, analysis, and visualization.
 
 ## RESUME : [Click Here](https://drive.google.com/file/d/1JBfWnOS-OrKIqUqVnEbDigjDzIjOg3ew/view?usp=sharing)
