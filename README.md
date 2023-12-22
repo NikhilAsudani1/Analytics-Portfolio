@@ -14,7 +14,8 @@ Demonstrating expertise in business analysis and visualization, I craft interact
 ### SQL & PYTHON PROJECTS : [Click Here](https://github.com/NikhilAsudani1/Analytics-Portfolio/tree/37951209e3d04a2ed93443c58e2974801b0ab6ac/SQL%20%26%20PYTHON)
 I showcase robust SQL capabilities, utilizing advanced techniques for data insights. My portfolio demonstrates transformative SQL applications in seamless integration and efficient database design. Leveraging Python and its libraries like Pandas, NumPy, and Matplotlib, I drive data-informed decisions through projects spanning data cleaning, analysis, and visualization.
 
-## RESUME : [Nikhil Asudani Resume]([https://www.linkedin.com/in/nikhilasudani/](https://drive.google.com/file/d/1JBfWnOS-OrKIqUqVnEbDigjDzIjOg3ew/view?usp=sharing))
+## RESUME : 
+[Click Here](https://drive.google.com/file/d/1JBfWnOS-OrKIqUqVnEbDigjDzIjOg3ew/view?usp=sharing)
 
 ## CONTACT :
 Name : Nikhil Asudani \
