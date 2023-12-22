@@ -17,4 +17,4 @@ I showcase robust SQL capabilities, utilizing advanced techniques for data insig
 Name : Nikhil Asudani \
 Email ID : <a mailto="nikhilasudani01@gmail.com">nikhilasudani01@gmail.com</a> \
 Linkedin : [in/nikhilasudani/](https://www.linkedin.com/in/nikhilasudani/) \
-Contact : \href{tel:8806833326}{+91-880-683-3326}
+Phone : +91-880-683-3326
